@@ -24,7 +24,7 @@ REG NO : 212222230010
 ## Program:
 # Get the input String
 ```python
-string = 'ADHITHYARAM'
+string = 'ANISH RAJ P'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
